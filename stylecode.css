@@ -7,7 +7,7 @@ table{
 }
 
 body{
-  line-height: 40px;
+  line-height: 50px;
   background-color: #A3D1D1;
   font-family: Trebuchet MS;
   font-size: 20px;
@@ -18,7 +18,8 @@ tr.odd{
 }
 
 h5{
-  line-height: 10px
+  line-height: 10px;
+  text-align: center;
 }
 
 h1{
@@ -37,8 +38,8 @@ img.small{
 }
 
 div.background{
-  background-image: url("background.png");
+  background-image: url("backima.png");
+  height:110px;
+  width: 1500px;
   background-repeat: no-repeat;
-  background-attachment: fixed;
-  opacity: 50%;
 }
